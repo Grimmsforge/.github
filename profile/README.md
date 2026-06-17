@@ -65,6 +65,18 @@ Arcbound bends your action bars into a configurable arc around your character, s
 - **Open source** - released under the Apache License 2.0.
 - **Kept current** - updated each patch as the game changes.
 
+## World of Warcraft Supported Versions
+
+Grimmforge addons will typically always be updated for:
+
+- Retail (Public Release)
+- Retail PTR
+
+Then alternative versions of World of Warcraft are developed on a per addon basis for the following versions:
+
+- Classic MoP
+- Classic TBC
+
 ## Elsewhere
 
 All releases live on CurseForge under [Grimmvöcare](https://www.curseforge.com/members/grimmvocare).
