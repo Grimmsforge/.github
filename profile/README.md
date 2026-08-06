@@ -1,5 +1,5 @@
 <div align="center">
-<img width="120" alt="Grimmsforge" src="https://github.com/user-attachments/assets/75e387b8-169a-4259-9d72-deb49ce673b0" />
+<img width="240" alt="Grimmsforge" src="https://github.com/user-attachments/assets/d787f73f-cbf4-4d6d-97fd-ebff26666c8a" />
 
 # Grimmsforge
 
@@ -40,6 +40,11 @@ A quiet hall of names for the one reward WoW never gave a proper home: your
 titles. Browse every title in the game, see how each is earned and how rare it
 is, filter and search the lot, and equip any of them in two clicks. Built like
 a heraldic catalogue rather than a combat overlay.
+
+Epithet was the top 10 finalist for the Curseforge 2026 World of Warcraft Midnight Add-on competition. 
+
+<img width="2000" height="400" alt="CF_project_banner_winner-2000x400-CF-WoW_Contest-26" src="https://github.com/user-attachments/assets/428cfb9c-d882-42ac-8ace-90b47bffaa85" />
+
 
 [CurseForge](https://www.curseforge.com/wow/addons/epithet) · [Source](https://github.com/Grimmsforge/Epithet)
 
