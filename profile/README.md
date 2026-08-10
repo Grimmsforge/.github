@@ -62,17 +62,17 @@ Arcbound bends your action bars into a configurable arc around your character, s
 
 [CurseForge](https://www.curseforge.com/wow/addons/arcbound) · [Source](https://github.com/Grimmsforge/arcbound)
 
-## What every Grimmsforge addon is
+## What Our Add-ons Aim For
 
-- **Standalone** - no required libraries unless there's a genuine reason for one.
-- **Rules-compliant** - nothing that automates input or skirts Blizzard's restrictions.
-- **Quiet** - no telemetry, no nags, no phoning home.
-- **Open source** - released under the Apache License 2.0.
+- **Standalone** - Where possible, no required libraries unless there's a genuine reason for one.
+- **Rules-compliant** - nothing that automates input or skirts Blizzard's restrictions. So, Blizard ToS compliant.
+- **Quiet** - Minimise disruption, provide options to reduce visual noise etc.
+- **Open source** - released under the Apache License 2.0, there may be some additional Notices here and there.
 - **Kept current** - updated each patch as the game changes.
 
 ## World of Warcraft Supported Versions
 
-Grimmsforge addons will typically always be updated for:
+Add-ons will typically always be updated for:
 
 - Retail (Public Release)
 - Retail PTR
@@ -84,7 +84,7 @@ Then alternative versions of World of Warcraft are developed on a per addon basi
 
 ## Elsewhere
 
-All releases live on CurseForge under [Grimmvöcare](https://www.curseforge.com/members/Grimmsforge).
+All releases live on CurseForge under [Grimmsforge](https://www.curseforge.com/members/Grimmsforge).
 
 Found a bug, a missing title, or a wrong source? Open an issue on the relevant
 repo with your patch version and the specifics.
@@ -96,5 +96,5 @@ repo with your patch version and the specifics.
 ---
 
 <div align="center">
-<sub>Forged on Bronzebeard.</sub>
+<sub>Forged on Bronzebeard by Grimmvöcare.</sub>
 </div>
