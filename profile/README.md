@@ -9,10 +9,7 @@
 
 ---
 
-Grimmsforge is where [Grimmvöcare](https://www.curseforge.com/members/Grimmsforge)'s
-World of Warcraft addons are built and kept. The brief is the same for all of
-them: lightweight, focused on a single job the default UI does badly, and
-self-contained - no required libraries (unless directly embedded), no telemetry, no RGB.
+Grimmsforge is the main source control organisation where our [World of Warcraft addons](https://www.curseforge.com/members/Grimmsforge)'s are built and kept. The brief is the same for all of them: lightweight, focused on a single job the default UI does badly, and self-contained - no required libraries (unless directly embedded), no telemetry, no RGB.
 
 ## In the forge
 
