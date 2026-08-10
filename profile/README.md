@@ -1,5 +1,5 @@
 <div align="center">
-<img width="240" alt="Grimmsforge" src="https://github.com/user-attachments/assets/d787f73f-cbf4-4d6d-97fd-ebff26666c8a" />
+<img width="340" alt="Grimmsforge-colourful-noshadow" src="https://github.com/user-attachments/assets/332da4e9-0f91-474b-90e8-e572615ac6eb" />
 
 # Grimmsforge
 
