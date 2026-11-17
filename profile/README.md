@@ -46,18 +46,17 @@ Epithet was the top 10 finalist for the Curseforge 2026 World of Warcraft Midnig
 [CurseForge](https://www.curseforge.com/wow/addons/epithet) · [Source](https://github.com/Grimmsforge/Epithet)
 
 <!-- LOGO PLACEHOLDER: replace the placehold.co src below with your ArcBound icon. -->
-### <img src="https://github.com/user-attachments/assets/f412203f-ca63-49f8-892b-de05134c3117" width="28" height="28" align="top" alt="Arcbound icon"> ArcBound
+### <img src="https://github.com/user-attachments/assets/e8419fde-adcd-40ef-b62f-8a6a80d14ce2" width="28" height="28" align="top" alt="Elite Mob Visuals icon"> Elite Mob Visuals
 
-![COMING SOON](https://img.shields.io/badge/COMING_SOON-7CFC00?style=for-the-badge&labelColor=1A1A1A)
+[![Downloads](https://img.shields.io/curseforge/dt/1576133?label=downloads&color=6E40C9&logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/elite-mob-visuals)
+[![License](https://img.shields.io/badge/license-Apache--2.0-6E40C9)](https://github.com/Grimmsforge/EliteMobVisuals/blob/main/LICENSE)
 
-[![Downloads](https://img.shields.io/curseforge/dt/1576133?label=downloads&color=6E40C9&logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/arcbound)
-[![License](https://img.shields.io/badge/license-Apache--2.0-6E40C9)](https://github.com/Grimmsforge/Arcbound/blob/main/LICENSE)
+A lightweight World of Warcraft: WoW Forever addon that puts a clear, customisable marker beside the nameplate of an elite, rare, rare elite or boss mob, an optional marker above its head, and the same on your target frame. Styles include end pieces that wrap the end of the health bar.
 
-Curved action bars that keep your eyes on your character.
+It is for players whose nameplates (Blizzard's, Plater, ElvUI, EllesmereUI, Kui or anything else) don't show elite and rare mobs the way they want. It works alongside any nameplate addon, with no libraries and no dependencies.
 
-Arcbound bends your action bars into a configurable arc around your character, so your abilities sit in your peripheral vision while your gaze stays on the fight. A single Curve slider takes any bar from a straight line, through a gentle bow, to a closed ring; your buttons keep their keybinds, macros, cooldown sweeps, range colouring, and charges. Only their position changes.
+[CurseForge](https://www.curseforge.com/wow/addons/elite-mob-visuals) · [Source](https://github.com/Grimmsforge/EliteMobVisuals)
 
-[CurseForge](https://www.curseforge.com/wow/addons/arcbound) · [Source](https://github.com/Grimmsforge/arcbound)
 
 ## What Our Add-ons Aim For
 
@@ -76,6 +75,7 @@ Add-ons will typically always be updated for:
 
 Then alternative versions of World of Warcraft are developed on a per addon basis for the following versions:
 
+- Forever
 - Classic MoP
 - Classic TBC
 
@@ -93,5 +93,6 @@ repo with your patch version and the specifics.
 ---
 
 <div align="center">
-<sub>Forged on Bronzebeard by Grimmvöcare.</sub>
+<sub>[Retail] Forged on Bronzebeard by Grimmvöcare.</sub>
+<sub>[Forever] or a Random Layer by Gul Dangit.</sub>
 </div>
