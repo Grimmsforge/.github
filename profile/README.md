@@ -72,10 +72,10 @@ Add-ons will typically always be updated for:
 
 - Retail (Public Release)
 - Retail PTR
+- Forever
 
 Then alternative versions of World of Warcraft are developed on a per addon basis for the following versions:
 
-- Forever
 - Classic MoP
 - Classic TBC
 
