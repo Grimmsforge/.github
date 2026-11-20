@@ -48,7 +48,7 @@ Epithet was the top 10 finalist for the Curseforge 2026 World of Warcraft Midnig
 <!-- LOGO PLACEHOLDER: replace the placehold.co src below with your ArcBound icon. -->
 ### <img src="https://github.com/user-attachments/assets/e8419fde-adcd-40ef-b62f-8a6a80d14ce2" width="28" height="28" align="top" alt="Elite Mob Visuals icon"> Elite Mob Visuals
 
-[![Downloads](https://img.shields.io/curseforge/dt/1576133?label=downloads&color=6E40C9&logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/elite-mob-visuals)
+[![Downloads](https://img.shields.io/curseforge/dt/1805338?label=downloads&color=6E40C9&logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/elite-mob-visuals)
 [![License](https://img.shields.io/badge/license-Apache--2.0-6E40C9)](https://github.com/Grimmsforge/EliteMobVisuals/blob/main/LICENSE)
 
 A lightweight World of Warcraft: WoW Forever addon that puts a clear, customisable marker beside the nameplate of an elite, rare, rare elite or boss mob, an optional marker above its head, and the same on your target frame. Styles include end pieces that wrap the end of the health bar.
